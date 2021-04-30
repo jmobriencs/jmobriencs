@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jmobriencs
+- 👀 I’m interested in music software dev.
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on VSTs/AUs
+- 📫 How to reach me: jmobriencs@gmail.com
