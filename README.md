@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jmobriencs
 - 👀 I’m interested in music software dev.
 - 📜 I have an AS in Computer Science
-- 📜 I have a BM in Jazz Piano & Music Production
+- 📜 I have a BM in Jazz Piano Performance & Music Production
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on VSTs/AUs
 - 📫 How to reach me: jmobriencs@gmail.com
