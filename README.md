@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jmobriencs
-- 🚀 I'm in the process of uploading my school work to github
 - 👀 I’m interested in music software development
 - 📜 I have an AS in Computer Science from Folsom Lake College
 - 📜 I have a BM in Jazz Piano Performance & Music Production from CSULB
