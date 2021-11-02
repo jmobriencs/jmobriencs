@@ -2,6 +2,7 @@
 - 👀 I’m interested in music software development
 - 📜 I have an AS in Computer Science from Folsom Lake College
 - 📜 I have a BM in Jazz Piano Performance & Music Production from CSULB
-- 🌱 I’m currently working with C++
+- 🤖 I'm currently working as an Automation Engineer at PowerSchool (Java/Selenium)
+- 🌱 I’m working with C++ in my free time
 - 💞️ I’m looking to collaborate on VSTs/AUs
 - 📫 How to reach me: jmobriencs@gmail.com
